@@ -1,0 +1,15 @@
+{
+  "name": "classflow-api",
+  "version": "1.0.0",
+  "description": "ClassFLow API",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "author": "shishpal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
